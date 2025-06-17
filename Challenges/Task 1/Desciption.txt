@@ -1,0 +1,7 @@
+Task: 1. 
+
+Show the following patterns using single print statement:
+
+Right Half Pyramid
+Reverse Right Half Pyramid
+Left Half Pyramid
