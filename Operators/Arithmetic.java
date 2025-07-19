@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class Arithmetic {
@@ -11,6 +10,8 @@ public class Arithmetic {
         System.out.println("Subtraction : " + (a - b));
         System.out.println("Multiplication : " + (a * b));
         System.out.println("Division : " + (a / b));
-        System.out.println("Modulus : "+(a%b));
+        System.out.println("Modulus : " + (a % b));
+
+        input.close();
     }
 }

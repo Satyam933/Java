@@ -5,7 +5,7 @@ public class data_type {
         short b = 180;
         int c = 10000000;
         long d = 1000000000;
-        float e = 10.5f;
+        float e = 10f;
         double f = 10.55555d;
         char g = 'S';
         boolean h = true;
@@ -30,9 +30,6 @@ public class data_type {
             System.out.print(num + " ");
         }
         System.out.println();
-
-        
-
     }
     
 }
