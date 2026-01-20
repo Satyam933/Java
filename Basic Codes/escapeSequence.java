@@ -3,7 +3,7 @@ public class escapeSequence {
         System.out.println("Hello, World!");
         System.out.println("I\'M Satyam Kumar.");
         System.out.println("Software\tDevelopment   \bEngineer.");
-        System.out.print("\"Chanfigarh University\"");
+        System.out.println("\"Chandigarh University\"");
         System.out.print("\\Mohali");
     }
 }
