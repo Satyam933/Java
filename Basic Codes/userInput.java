@@ -16,7 +16,6 @@ public class userInput {
         System.out.println("Float : " + f);
         System.out.println("Character : " + c);
         System.out.println("String : " + name);
-        
         input.close();
     }
 }
