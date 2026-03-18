@@ -8,7 +8,7 @@ public class userInput {
             System.out.print("Enter a Floating value : ");
             float f = input.nextFloat();
             System.out.print("Enter a Character  : ");
-            char c = input.next().charAt(0);
+            char c = input.next().charAt(2);
             input.nextLine();
             System.out.print("Enter a String : ");
             String name = input.nextLine();

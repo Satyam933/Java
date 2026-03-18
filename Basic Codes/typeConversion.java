@@ -2,7 +2,7 @@ public class typeConversion {
     public static void main(String[] args) {
         //Implicit Conversion ----> Coercion
         short s = 150;
-        int i = s; // short automatic converted to in by compiler.
+        int i = s; // short automatic converted to int by compiler.
         System.out.println("value of int from short : "+i);
         
         //Explicit Conversion ---> casting
