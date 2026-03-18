@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class add {
+public class task2 {
     public static void main(String[] args) {
         System.out.print("Enter two numbers : ");
         try (Scanner input = new Scanner(System.in)) {
