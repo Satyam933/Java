@@ -1,4 +1,4 @@
-package OOPs;
+package oops;
 public class OOP4MultiArray{
   public static void main(String[] args) {
     int arr[][] = new int[3][4];//2-D array having 3 different array with 4 elements in each/3-rows and 4-columns.

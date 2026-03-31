@@ -1,4 +1,4 @@
-package OOPs;
+package oops;
 
 public class OOP3Array {
   public static void main(String[] args) {
