@@ -20,8 +20,8 @@ public class OOP7ArrayObj {
     Student students[] = new Student[2];
     students[0] = s1;
     students[1] = s2;
-    for (int i = 0; i < students.length; i++) { //We don't use enhanched for loop as it will return object address.
-      System.out.println(students[i].rollNum + " : " + students[i].name + " : " + students[i].marks);
+    for (Student n : students) {
+      System.out.println(n.rollNum + " : " + n.name + " : " + n.marks);
     }
   }
 }
